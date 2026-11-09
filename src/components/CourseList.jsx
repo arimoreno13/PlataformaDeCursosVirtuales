@@ -68,6 +68,38 @@ const COURSES_DATA = [
     category: "Fotografía",
     price: 39.99,
     thumbnail: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop"
+  },
+  {
+    id: 9,
+    title: "Inteligencia Artificial desde Cero",
+    description: "Comprende los fundamentos del Machine Learning y cómo usar herramientas de IA generativa.",
+    category: "Tecnología",
+    price: 54.99,
+    thumbnail: "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=500&auto=format&fit=crop"
+  },
+  {
+    id: 10,
+    title: "Gestión de Proyectos con Agile y Scrum",
+    description: "Aprende a liderar equipos de trabajo eficientes bajo metodologías ágiles.",
+    category: "Negocios",
+    price: 42.00,
+    thumbnail: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=500&auto=format&fit=crop"
+  },
+  {
+    id: 11,
+    title: "Diseño 3D con Blender",
+    description: "Modela personajes, objetos y escenarios tridimensionales para videojuegos o animación.",
+    category: "Diseño",
+    price: 49.99,
+    thumbnail: "https://images.unsplash.com/photo-1633167606207-d840b5070fc2?w=500&auto=format&fit=crop"
+  },
+  {
+    id: 12,
+    title: "Ciberseguridad y Hacking Ético",
+    description: "Protege redes, sistemas informáticos y detecta vulnerabilidades web como un profesional.",
+    category: "Seguridad",
+    price: 64.99,
+    thumbnail: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&auto=format&fit=crop"
   }
 ];
 

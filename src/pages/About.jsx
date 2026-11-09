@@ -15,13 +15,13 @@ function About() {
 
       {/* Bloque de Misión y Visión */}
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "2rem", marginBottom: "3rem" }}>
-        <div style={{ background: "white", padding: "2rem", borderRadius: "12px", border: "1px solid #e9ecef", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.05)" }}>
+        <div style={{ background: "white", padding: "2rem", borderRadius: "12px", border: "1px solid #010911", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.05)" }}>
           <h3 style={{ color: "#1e3c72", fontSize: "1.3rem", marginBottom: "0.8rem" }}>🎯 Nuestra Misión</h3>
           <p style={{ color: "#666", lineHeight: "1.5", fontSize: "0.95rem" }}>
             Democratizar la educación de calidad permitiendo que cualquier persona, sin importar su ubicación, adquiera habilidades prácticas altamente demandadas en el mercado laboral actual.
           </p>
         </div>
-        <div style={{ background: "white", padding: "2rem", borderRadius: "12px", border: "1px solid #e9ecef", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.05)" }}>
+        <div style={{ background: "white", padding: "2rem", borderRadius: "12px", border: "1px solid #010911", boxShadow: "0 4px 12px rgba(0, 0, 0, 0.05)" }}>
           <h3 style={{ color: "#1e3c72", fontSize: "1.3rem", marginBottom: "0.8rem" }}>🚀 Nuestra Visión</h3>
           <p style={{ color: "#666", lineHeight: "1.5", fontSize: "0.95rem" }}>
             Convertirnos en la comunidad de aprendizaje virtual líder en Iberoamérica, reconocida por la excelencia de nuestros instructores y el éxito profesional de nuestros egresados.
@@ -30,7 +30,7 @@ function About() {
       </div>
 
       {/* Valores */}
-      <div style={{ background: "#f8f9fa", padding: "2.5rem", borderRadius: "12px", textAlign: "center", border: "1px solid #e9ecef" }}>
+      <div style={{ background: "#f8f9fa", padding: "2.5rem", borderRadius: "12px", textAlign: "center", border: "1px solid #010c16" }}>
         <h3 style={{ color: "#1e3c72", fontSize: "1.5rem", marginBottom: "1.5rem" }}>Nuestros Valores</h3>
         <div style={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap", gap: "1rem" }}>
           <div>
@@ -38,7 +38,8 @@ function About() {
             <p style={{ fontWeight: "bold", margin: "0.5rem 0 0 0", color: "#444" }}>Innovación</p>
           </div>
           <div>
-            <span style={{ fontSize: "1.5rem" }}>🤝</span>
+            <span style={{ fontSize: "1.5rem" }}>
+            </span>
             <p style={{ fontWeight: "bold", margin: "0.5rem 0 0 0", color: "#444" }}>Compromiso</p>
           </div>
           <div>
